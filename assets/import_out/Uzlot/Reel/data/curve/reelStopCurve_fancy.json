@@ -1,0 +1,21 @@
+{
+	"points":[
+		{
+			"pos":[0, 0.6]
+		},
+		{
+			"pos":[23, 0.3],
+			"easeType": ["weighted"],
+			"easeIn":[0, 0],
+			"easeOut":[2, 0]
+		},
+		{
+			"pos":[36, -0.08]
+		},
+		{
+			"pos":[46, 0],
+			"easeType": ["weighted"],
+			"easeIn":[-2, 0]
+		}
+	]
+}

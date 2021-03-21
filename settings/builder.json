@@ -1,0 +1,65 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [
+    "a3a0729e-ecd0-4691-837c-f84118a56ed7",
+    "36182c49-c9b3-4d77-b497-462851a3b0a6",
+    "5313f72e-ac62-4377-9c3c-a499cf2d6f97",
+    "c28609a7-366c-42a1-819d-41cf3a79b566",
+    "6ae3f742-1474-416b-b660-f4730d0f4a37",
+    "a9f38692-e4fa-424d-84ba-a22a750264b2",
+    "55623922-6a75-4658-81df-652e0503bd2e",
+    "bad1e397-9b71-457d-a629-37bdacd30579",
+    "d517f9a2-73cc-4000-9c2b-08413e7221be",
+    "b3811de0-37a4-4cfa-a4c2-6f121f1f4f71",
+    "ab909e6a-dab0-4d54-a1d2-e0adaa860c4f",
+    "17750749-81ba-4f0e-b0be-5f8d5c55d3cd",
+    "fc13894e-ae03-4c97-980c-be8f6527180c"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.demo",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "80d20900-8225-474e-809c-fd611fd43406",
+  "title": "cc-uzlot",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "f3660676-5ad2-4a",
+  "zipCompressJs": true
+}

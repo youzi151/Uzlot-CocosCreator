@@ -1,0 +1,24 @@
+{
+	"defaultState":"",
+
+	"parameter":{},
+	
+	"states": [
+		{
+			"name":"show",
+			"clips":[
+				{
+					"name":"show"
+				}
+			]
+		},
+		{
+			"name":"hide",
+			"clips":[
+				{
+					"name":"hide"
+				}
+			]
+		}
+	]
+}

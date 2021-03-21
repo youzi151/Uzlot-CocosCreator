@@ -1,4 +1,8 @@
 {
+	"game": {
+		"name": "未知游戏",
+		"appid": "UNKNOW"
+	},
 	"services": [
 		{
 			"service_id": "303",
@@ -559,9 +563,5 @@
 			"service_group_id": "",
 			"not_service": false
 		}
-	],
-	"game": {
-		"name": "未知游戏",
-		"appid": "UNKNOW"
-	}
+	]
 }

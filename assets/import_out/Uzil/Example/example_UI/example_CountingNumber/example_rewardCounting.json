@@ -1,0 +1,32 @@
+[
+    {
+        "name": "start",
+        "targetNum": 0,
+        "time": 2
+    },
+    {
+        "name": "smallWin",
+        "targetNum": 1000,
+        "time": 3
+    },
+    {
+        "name": "bigWin",
+        "targetNum": 10000,
+        "time": 3
+    },
+    {
+        "name": "superWin",
+        "targetNum": 100000,
+        "time": 3
+    },
+    {
+        "name": "megaWin",
+        "targetNum": 1000000,
+        "time": 10
+    },
+    {
+        "name": "end",
+        "targetNum": 10000000,
+        "time": 3
+    }
+]
