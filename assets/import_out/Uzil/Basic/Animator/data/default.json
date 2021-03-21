@@ -1,0 +1,16 @@
+{
+	"defaultState":"default",
+
+	"parameter":{},
+	
+	"states": [
+		{
+			"name":"default",
+			"clips":[
+				{
+					"name":"default"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "409f9799-4646-453d-9b8e-fb23ea2a1d09",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "G00-SymbolAnim-Win-S2N3": {
+      "ver": "1.0.4",
+      "uuid": "390bf040-5604-41fc-a81e-4df4bcaff240",
+      "rawTextureUuid": "409f9799-4646-453d-9b8e-fb23ea2a1d09",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
