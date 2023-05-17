@@ -2,7 +2,7 @@
 
 ## 簡介
 
-老虎機公版，搭配[Uzil工具集](https://gitlab.com/youzi151/uzil-cocoscreator2.0.x)開發。
+老虎機公版，搭配[Uzil工具集](https://github.com/youzi151/uzil-cocoscreator2.0.x)開發。
 
 以方便改製成各款老虎機遊戲為主，製作共通基礎功能如：滾輪、開獎、流程...等。
 
