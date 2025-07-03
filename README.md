@@ -7,8 +7,8 @@
 以方便改製成各款老虎機遊戲為主，製作共通基礎功能如：滾輪、開獎、流程...等。
 
 ### 展示Demo
-- [一般版](http://tny.im/nrv)
-- [特殊效果版](http://tny.im/nru)
+- [一般版](https://youzi151.github.io/ghp-uzlot-demo/nm/)
+- [特殊效果版](https://youzi151.github.io/ghp-uzlot-demo/mw/)
 
 ### 特色
 
